@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/karun_desktop",
+        "destination": "https://karun-desktop.vercel.app",
+        "permanent": true
+      }
+    ]
+  }
+  
